@@ -1,1 +1,3 @@
 votifier-tester
+*.exe
+vendor/

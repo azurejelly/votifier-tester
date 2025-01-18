@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
+github.com/minecrafter/go-votifier v0.0.0-20170430021002-a708d1a9116a h1:MwBlbS1Csgt0R4qx3kveEX0em0tJqvl4NNZt/PJegEs=
+github.com/minecrafter/go-votifier v0.0.0-20170430021002-a708d1a9116a/go.mod h1:vrkDjppCJQVFZk/g6KHdQVhV/CnNihB0yo4a3HZfuds=
