@@ -1,0 +1,10 @@
+services:
+  website:
+    container_name: votifier-tester
+    image: azurejelly/votifier-tester:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
